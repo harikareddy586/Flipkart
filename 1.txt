@@ -1,3 +1,2 @@
-1
-!
-dchgdyfdkjasi
+A=10
+B=20
